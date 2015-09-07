@@ -1,0 +1,22 @@
+D:\LP2\WINDOWSFORMS\trabalhoAPS\bin\Release\trabalhoAPS.exe
+D:\LP2\WINDOWSFORMS\trabalhoAPS\bin\Release\trabalhoAPS.pdb
+D:\LP2\WINDOWSFORMS\trabalhoAPS\obj\x86\Release\ResolveAssemblyReference.cache
+D:\LP2\WINDOWSFORMS\trabalhoAPS\obj\x86\Release\trabalhoAPS.exe
+D:\LP2\WINDOWSFORMS\trabalhoAPS\obj\x86\Release\trabalhoAPS.pdb
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS\obj\x86\Release\trabalhoAPS.exe
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS\obj\x86\Release\trabalhoAPS.pdb
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS\bin\Release\trabalhoAPS.exe
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS\bin\Release\trabalhoAPS.pdb
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS Ordenação\obj\x86\Release\trabalhoAPS.exe
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS Ordenação\obj\x86\Release\trabalhoAPS.pdb
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS Ordenação\bin\Release\trabalhoAPS.exe
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS Ordenação\bin\Release\trabalhoAPS.pdb
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS Ordenação\obj\x86\Release\ResolveAssemblyReference.cache
+F:\trabalhoAPS Ordenação\obj\x86\Release\trabalhoAPS.exe
+F:\trabalhoAPS Ordenação\obj\x86\Release\trabalhoAPS.pdb
+F:\trabalhoAPS Ordenação\bin\Release\trabalhoAPS.exe
+F:\trabalhoAPS Ordenação\bin\Release\trabalhoAPS.pdb
+F:\trabalhoAPS Ordenação\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\trabalhoAPS Ordenação\obj\x86\Release\trabalhoAPS.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\trabalhoAPS Ordenação\obj\x86\Release\trabalhoAPS.pdb

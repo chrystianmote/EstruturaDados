@@ -1,0 +1,15 @@
+D:\LP2\WINDOWSFORMS\trabalhoAPS\bin\Debug\trabalhoAPS.exe
+D:\LP2\WINDOWSFORMS\trabalhoAPS\bin\Debug\trabalhoAPS.pdb
+D:\LP2\WINDOWSFORMS\trabalhoAPS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LP2\WINDOWSFORMS\trabalhoAPS\obj\x86\Debug\trabalhoAPS.exe
+D:\LP2\WINDOWSFORMS\trabalhoAPS\obj\x86\Debug\trabalhoAPS.pdb
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS\obj\x86\Debug\trabalhoAPS.exe
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS\obj\x86\Debug\trabalhoAPS.pdb
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS\bin\Debug\trabalhoAPS.exe
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS\bin\Debug\trabalhoAPS.pdb
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS Ordenação\obj\x86\Debug\trabalhoAPS.exe
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS Ordenação\obj\x86\Debug\trabalhoAPS.pdb
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS Ordenação\bin\Debug\trabalhoAPS.exe
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS Ordenação\bin\Debug\trabalhoAPS.pdb
+C:\Users\Rodrigo JR_2.RodrigoJr-PC\Desktop\trabalhoAPS Ordenação\obj\x86\Debug\ResolveAssemblyReference.cache
