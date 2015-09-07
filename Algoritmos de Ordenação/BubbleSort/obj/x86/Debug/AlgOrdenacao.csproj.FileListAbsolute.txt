@@ -1,0 +1,7 @@
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\Algoritmos de Ordenação\BubbleSort\obj\x86\Debug\BubbleSort.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\Algoritmos de Ordenação\BubbleSort\obj\x86\Debug\BubbleSort.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\Algoritmos de Ordenação\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\Algoritmos de Ordenação\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\Algoritmos de Ordenação\BubbleSort\obj\x86\Debug\ResolveAssemblyReference.cache

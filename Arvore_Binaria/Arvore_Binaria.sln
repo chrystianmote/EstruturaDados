@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arvore_Binaria", "Arvore_Binaria\Arvore_Binaria.csproj", "{CD904FBF-4DBF-4D8C-ACAA-6E4CE84CB82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD904FBF-4DBF-4D8C-ACAA-6E4CE84CB82D}.Debug|x86.ActiveCfg = Debug|x86
+		{CD904FBF-4DBF-4D8C-ACAA-6E4CE84CB82D}.Debug|x86.Build.0 = Debug|x86
+		{CD904FBF-4DBF-4D8C-ACAA-6E4CE84CB82D}.Release|x86.ActiveCfg = Release|x86
+		{CD904FBF-4DBF-4D8C-ACAA-6E4CE84CB82D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

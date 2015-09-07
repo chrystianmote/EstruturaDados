@@ -1,0 +1,13 @@
+C:\Users\Vinicius\Documents\UNES\4º Período\ED2\Arvore_Binaria\Arvore_Binaria\bin\Debug\Arvore_Binaria.exe
+C:\Users\Vinicius\Documents\UNES\4º Período\ED2\Arvore_Binaria\Arvore_Binaria\bin\Debug\Arvore_Binaria.pdb
+C:\Users\Vinicius\Documents\UNES\4º Período\ED2\Arvore_Binaria\Arvore_Binaria\obj\x86\Debug\Arvore_Binaria.exe
+C:\Users\Vinicius\Documents\UNES\4º Período\ED2\Arvore_Binaria\Arvore_Binaria\obj\x86\Debug\Arvore_Binaria.pdb
+F:\##dados##\Arvore_Binaria\Arvore_Binaria\obj\x86\Debug\Arvore_Binaria.exe
+F:\##dados##\Arvore_Binaria\Arvore_Binaria\obj\x86\Debug\Arvore_Binaria.pdb
+F:\##dados##\Arvore_Binaria\Arvore_Binaria\bin\Debug\Arvore_Binaria.exe
+F:\##dados##\Arvore_Binaria\Arvore_Binaria\bin\Debug\Arvore_Binaria.pdb
+F:\##dados##\Arvore_Binaria\Arvore_Binaria\obj\x86\Debug\Arvore_Binaria.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Arvore_Binaria\Arvore_Binaria\obj\x86\Debug\Arvore_Binaria.exe
+C:\Users\Aluno\Desktop\Arvore_Binaria\Arvore_Binaria\obj\x86\Debug\Arvore_Binaria.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\Ubiratan R. (EDII)\Arvore_Binaria\Arvore_Binaria\obj\x86\Debug\Arvore_Binaria.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\Ubiratan R. (EDII)\Arvore_Binaria\Arvore_Binaria\obj\x86\Debug\Arvore_Binaria.pdb

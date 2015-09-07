@@ -1,0 +1,12 @@
+C:\Users\Aluno\Desktop\BubbleSort\BubbleSort\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Aluno\Desktop\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Aluno\Desktop\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.exe
+C:\Users\Aluno\Desktop\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.pdb
+H:\UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.exe
+H:\UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\3º Período (2012)\Ubiratan Roberte (Est.Dados I)\BubbleSort\BubbleSort\obj\x86\Debug\ResolveAssemblyReference.cache
